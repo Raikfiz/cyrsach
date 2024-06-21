@@ -1,0 +1,3 @@
+C:\Users\фвьшт\Desktop\reactproject505\obj\Debug\reactproject505.esproj.SuggestedBindingRedirects.cache
+C:\Users\фвьшт\Desktop\reactproject505\obj\Debug\reactproject505.esproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Desktop\shit-main\obj\Debug\reactproject505.esproj.CoreCompileInputs.cache

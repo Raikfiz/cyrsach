@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\pages\\catalog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\catalog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\pages\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\contacts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\components\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\components\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\orderdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\orderdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|c:\\users\\valen\\onedrive\\desktop\\shit-main\\src\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4D8B2D2B-12DD-4FB9-A624-B9B963D484C0}|reactproject505.esproj|solutionrelative:src\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Components\\Header.js",
+              "RelativeDocumentMoniker": "src\\Components\\Header.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Components\\Header.js",
+              "RelativeToolTip": "src\\Components\\Header.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T17:05:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Cart.js",
+              "RelativeDocumentMoniker": "src\\Cart.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Cart.js",
+              "RelativeToolTip": "src\\Cart.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Catalog.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Catalog.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Catalog.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Catalog.js",
+              "RelativeToolTip": "src\\Pages\\Catalog.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacts.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Contacts.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Contacts.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Contacts.js",
+              "RelativeToolTip": "src\\Pages\\Contacts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetails.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\OrderDetails.js",
+              "RelativeDocumentMoniker": "src\\OrderDetails.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\OrderDetails.js",
+              "RelativeToolTip": "src\\OrderDetails.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Order.js",
+              "RelativeDocumentMoniker": "src\\Order.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Order.js",
+              "RelativeToolTip": "src\\Order.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Products.js",
+              "RelativeDocumentMoniker": "src\\Products.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Products.js",
+              "RelativeToolTip": "src\\Products.js",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAHQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Home.js",
+              "RelativeDocumentMoniker": "src\\Pages\\Home.js",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\shit-main\\src\\Pages\\Home.js",
+              "RelativeToolTip": "src\\Pages\\Home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-16T16:29:26.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
